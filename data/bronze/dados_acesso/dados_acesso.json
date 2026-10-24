@@ -1,0 +1,11 @@
+{
+    "name": "dv_municipios",
+    "elements": [
+        {
+            "codigo_municipio": "057",
+            "nome_municipio": "FORTALEZA",
+            "codigo_municipio_ibge": "2304400",
+            "codigo_municipio_geonames": "3399415"
+        }
+    ]
+}
